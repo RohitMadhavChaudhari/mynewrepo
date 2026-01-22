@@ -1,6 +1,7 @@
 print("Addition of two number")
 a=10
 b=20
-c=a+b
-print("Value of c is",c)
+c=100
+d=a+b+c
+print("Value of d is",d)
 
